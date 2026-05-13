@@ -15,7 +15,7 @@ The system is designed to:
 - Reduce latency for real-time or near real-time analytics
 
 Tech Stack
-- Language: C++
+- Language: C
 - Parallelism:
     MPI (distributed memory)
     OpenMP (shared memory threading)
